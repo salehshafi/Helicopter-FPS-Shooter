@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../VIRTUAL LEARN/SpellApplication/Assets/Scripts/StorePopup.cs">
+    <Files>
+      <File FileName="../VIRTUAL LEARN/SpellApplication/Assets/Scripts/StorePopup.cs" Line="18" Column="3" />
+      <File FileName="../VIRTUAL LEARN/SpellApplication/Assets/Scripts/MAnagers/GUIManager.cs" Line="138" Column="24" />
+      <File FileName="../VIRTUAL LEARN/SpellApplication/Assets/Scripts/MAnagers/GameManager.cs" Line="24" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

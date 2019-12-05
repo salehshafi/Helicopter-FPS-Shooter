@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{86F8FBF4-3BC2-E96E-BBE4-1E2C4397D9AC}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs">
+    <Files>
+      <File FileName="Assets/Standard Assets/Cameras/Scripts/TargetFieldOfView.cs" Line="66" Column="26" />
+      <File FileName="Assets/Standard Assets/ParticleSystems/Scripts/WaterHoseParticles.cs" Line="46" Column="52" />
+      <File FileName="Assets/WayPointManager/EnemyScript.cs" Line="23" Column="1" />
+      <File FileName="Assets/Standard Assets/Effects/ImageEffects/Scripts/DepthOfField.cs" Line="1" Column="1" />
+      <File FileName="Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs" Line="91" Column="17" />
+      <File FileName="Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" Line="253" Column="33" />
+      <File FileName="Assets/Standard Assets/Cameras/Scripts/FreeLookCam.cs" Line="81" Column="47" />
+      <File FileName="Assets/Scripts/GUIManager.cs" Line="65" Column="26" />
+      <File FileName="Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs" Line="35" Column="66" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/saleh/Developer/DeveloperHD/EMAAGO/GunshipMissionTask/Assets/Standard Assets/Cameras/Scripts/FreeLookCam.cs" relfile="Assets/Standard Assets/Cameras/Scripts/FreeLookCam.cs" line="72" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.GunshipMissionTask PreferredExecutionTarget="Unity.Editor" />
+</Properties>
